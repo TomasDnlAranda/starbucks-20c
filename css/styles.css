@@ -1,0 +1,27 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* mobile */
+
+.header {
+	background: green;
+}
+
+.main {
+	background: green;
+}
+
+.gallery {
+	background: green;
+}
+
+.cards {
+	background: green;
+}
+
+.footer {
+	background: green;
+}
